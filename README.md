@@ -8,6 +8,7 @@ Projede Bootstrap'in grid sistemi, kart yapıları ve temel web tasarımı özel
 - Card Yapısı: Ürünleri tanıtan kartlar kullanarak görsel ve metinleri düzenli bir şekilde sundum. 🛒
 - Duyarlı Tasarım: Sayfayı masaüstü ve mobil cihazlarda düzgün çalışacak şekilde optimize ettim. 📱💻
 - Basit Satış Arayüzü: Ürün listeleme ve temel alışveriş işlevselliği için şık bir tasarım sağladım. 🛍️
+- "Projemde amaç, mükemmel olmak değil, etkili ve verimli sonuçlar elde etmektir."
 
 ## Kullandığım Teknolojiler;
 -HTML 🌐
